@@ -82,5 +82,3 @@ This script calculates various metrics, such as Intersection over Union (IoU), F
 ## Requirements
 Please refer to the `requirements.txt` file for the complete list of dependencies.
 
-## Contact
-For any questions or issues, please contact [Your Name] at [Your Email].
